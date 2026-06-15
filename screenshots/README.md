@@ -36,6 +36,18 @@ Displays an intense battle with a dinosaur-like creature with health indicators.
 ![Advanced Creature - Dragon](screenshot-8-dragon.png)
 Shows an evolved creature form - a dragon-type Digimon.
 
+### Screenshot 9: Dragon Battle vs Enemy
+![Dragon Battle vs Enemy](screenshot-9-dragon-battle.png)
+Dragon creature in battle with an opponent shown on the screen.
+
+### Screenshot 10: LED Light Show - Rainbow
+![LED Light Show - Rainbow](screenshot-10-led-rainbow.png)
+Device with full RGB LED illumination showing vibrant rainbow colors on the buttons and ring.
+
+### Screenshot 11: Patamon Battle Screen
+![Patamon Battle Screen](screenshot-11-patamon-battle.png)
+Patamon engaged in combat with visible health bars and battlefield scenery.
+
 ---
 
 These screenshots can be shared with Claude or other collaborators for project documentation and discussion.
